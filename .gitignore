@@ -1,4 +1,5 @@
 # Ignore for Config file so I don't share my API
 config.js
+config.*
 
 
